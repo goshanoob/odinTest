@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d76790d2287dc2d49a5c31e7206abcec, type: 3}
+  m_Name: MaterialSoundBinder
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 4999338452601976429, guid: 21cbcb4d01909f74c833fc427c048202, type: 3}
+    - {fileID: 13400000, guid: 874b5656c77dedd428886f3d15292d79, type: 2}
+    - {fileID: 8300000, guid: 924730f299ff0f948908007d57071e88, type: 3}
+    - {fileID: 8300000, guid: 35c7c5375c1e75f4cad3286aaf665575, type: 3}
+    - {fileID: 8300000, guid: fa2d038c62ec62341ac15cc2d77fd376, type: 3}
+    - {fileID: 8300000, guid: 5dccccb76778abd45909db3295902f69, type: 3}
+    - {fileID: 8300000, guid: 8a44b2f9728e55545b525e60e9fb385c, type: 3}
+    - {fileID: 8300000, guid: a542e47911cbbcf438b36fc7e654a871, type: 3}
+    - {fileID: 8300000, guid: e5d454bed708f7b4190ad834c1bfdea5, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: _materialSounds
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[MaterialSoundsGroup, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 7
+      Data: 1|MaterialSoundsGroup, Assembly-CSharp
+    - Name: _soundEvent
+      Entry: 3
+      Data: 0
+    - Name: _soundSettings
+      Entry: 10
+      Data: 0
+    - Name: _minPitch
+      Entry: 4
+      Data: 0.98
+    - Name: _maxPitch
+      Entry: 4
+      Data: 1.03
+    - Name: _minVolume
+      Entry: 4
+      Data: 0.98
+    - Name: _maxVolume
+      Entry: 4
+      Data: 1.03
+    - Name: _materialSounds
+      Entry: 7
+      Data: 2|MaterialSounds[], Assembly-CSharp
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 3|MaterialSounds, Assembly-CSharp
+    - Name: _material
+      Entry: 10
+      Data: 1
+    - Name: _soundsSet
+      Entry: 7
+      Data: 4|UnityEngine.AudioClip[], UnityEngine.AudioModule
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 4
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 5|MaterialSoundsGroup, Assembly-CSharp
+    - Name: _soundEvent
+      Entry: 3
+      Data: 1
+    - Name: _soundSettings
+      Entry: 10
+      Data: 0
+    - Name: _minPitch
+      Entry: 4
+      Data: 0.98
+    - Name: _maxPitch
+      Entry: 4
+      Data: 1.03
+    - Name: _minVolume
+      Entry: 4
+      Data: 0.98
+    - Name: _maxVolume
+      Entry: 4
+      Data: 1.03
+    - Name: _materialSounds
+      Entry: 7
+      Data: 6|MaterialSounds[], Assembly-CSharp
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 7
+      Data: 7|MaterialSounds, Assembly-CSharp
+    - Name: _material
+      Entry: 10
+      Data: 1
+    - Name: _soundsSet
+      Entry: 7
+      Data: 8|UnityEngine.AudioClip[], UnityEngine.AudioModule
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 5
+    - Name: 
+      Entry: 10
+      Data: 6
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 9|MaterialSounds, Assembly-CSharp
+    - Name: _material
+      Entry: 10
+      Data: 1
+    - Name: _soundsSet
+      Entry: 7
+      Data: 10|UnityEngine.AudioClip[], UnityEngine.AudioModule
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 7
+    - Name: 
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 8
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: _defaultMaterial
+      Entry: 10
+      Data: 1
